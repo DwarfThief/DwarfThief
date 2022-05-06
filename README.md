@@ -3,7 +3,8 @@
 - :man: Fullstack developer, passionate learner and a Magic: The Gathering fan
 - :computer: **PHP** [Laravel] | **Javascript** [Node, JQuery, React] | **Python** [Pandas, Scrapy] | **Java** | **C** | **SQL** | **GIT** | **WordPress**
 - 📚 Studying:
-  - SEO
+- - ReactJS
+- - Docker
   - Software documentation
   - OOP Design Patterns
 
